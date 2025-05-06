@@ -1,0 +1,29 @@
+.flex-container{display: flex;
+   background-image: linear-gradient(rgb(228, 96, 25),rgb(69, 0, 159));
+    color: rgb(254, 205, 11);
+    height: 100px;
+flex-direction: row;
+justify-content: space-around}
+    .flex-item{
+display:flex;
+text-align: center;
+
+}
+main{display: block;
+    text-align: center;
+font-size: 30px;
+background-image: linear-gradient(rgb(69, 0, 159), rgb(69, 0, 159));
+color: rgb(255, 170, 12);
+}
+
+body{ background-color:rgb(69, 0, 159);
+margin: 0px;
+padding: 0px;}
+footer{
+    display: block;
+    text-align: center;
+    margin-top: 0px;
+    background-image: linear-gradient(rgb(69, 0, 159), rgb(228, 96, 25));
+    color: rgb(255, 170, 12);
+    padding: 20px;
+}
